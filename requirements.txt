@@ -1,0 +1,6 @@
+pandas
+numpy
+transformers
+torch
+sklearn
+PyPDF2
